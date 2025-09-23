@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+    color: blue;
+    text-align: center;
+}
+
+marquee {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    width: 30%;
+}
+#image-text {
+    color: lime;
+}
