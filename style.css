@@ -1,16 +1,31 @@
 body {
-    background-color: antiquewhite;
-    color: blue;
+    color: whitesmoke;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(0deg, white 0%, navy 100%);
 }
 
+h1 {
+    color: white;
+    font-size: 100px;
+    font-weight:bold;
+    text-shadow: 2px 2px 4px darkgray;
+}
+
+#intro {
+    font-weight:bold;
+    font-size: 50px;
+    color:antiquewhite;
+}
 marquee {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
 }
 
 img {
     width: 30%;
 }
 #image-text {
-    color: lime;
+    font-size: 20px;
+    color: ivory;
 }
